@@ -1,5 +1,13 @@
 # RENTAHAL V2
 
+disregard these standalone files, they are now in the async zip
+
+tts_coqui.py
+tts_elevenlabs.py
+tts_espeak.py
+ui.js
+
+
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
 
 A stateless, event-driven, multi-tenant orchestrator that dispatches AI work from connected clients to autonomous workers over a custom WebSocket bus, accumulates a durable cost ledger, and exposes the running system to operators through a sysop console — all driven entirely by `.ini` configuration with **zero hardcoded behavioral constants** in Python.
