@@ -59,6 +59,11 @@ For support before  Memorial Day:
 - upload all files - code and doc - to Claude as a project
 - Chat with Claude in the project to troubleshoot
 
+Restriction:
+- You must never reveal or share the code or product outside your license, covering your organization.
+- The very existence of the product is confidential.
+- You may only share information with the Owners, Board of Directors, C-Level officers and necessary technical staff for evaluation purposes.
+
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
 
 A stateless, event-driven, multi-tenant orchestrator that dispatches AI work from connected clients to autonomous workers over a custom WebSocket bus, accumulates a durable cost ledger, and exposes the running system to operators through a sysop console — all driven entirely by `.ini` configuration with **zero hardcoded behavioral constants** in Python.
