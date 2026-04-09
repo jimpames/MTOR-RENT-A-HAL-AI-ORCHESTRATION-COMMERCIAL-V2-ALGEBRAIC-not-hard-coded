@@ -1,5 +1,9 @@
 # RENTAHAL V2
 
+You are now viewing a private closed github.
+
+You were invited.
+
 disregard these standalone files, they are now in the async zip
 
 
@@ -14,6 +18,26 @@ ui.js
 Use this fileset:
 
 rentahal-phase5-7-async.zip
+
+BY: N2NHU LABS  - j p ames
+
+9 APR 26
+
+License: 
+
+Commercial only - contact jimpames@gmail.com or jim@mtorfoundation.org for license
+
+This codebase is derived from my 33rd book and the principles and GPL3 code within:
+
+https://www.amazon.com/Applied-Algebraic-Design-Agentic-AI-ebook/dp/B0GKX969Y2
+
+No one may use this code without license.
+
+This code is not covered under GPL3
+
+This code is a clean room re-write of MTOR RENTAHAL v1
+
+https://www.amazon.com/MTOR-Alice-Enters-Theory-Operation-ebook/dp/B0F7DF2XTP
 
 
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
