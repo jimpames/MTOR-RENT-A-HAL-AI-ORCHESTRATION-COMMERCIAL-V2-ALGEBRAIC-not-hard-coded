@@ -45,6 +45,14 @@ Upon completion of evaluation, you must destroy your copy of the software or obt
 
 A commercial re-seller license is also available.
 
+Disclaimer:
+
+You are being provided a first look.
+
+This code has never run on the N2NHU Labs Array - that is slated for Memorial Day.
+
+This code has ONLY been tested in Claude's docker.
+
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
 
 A stateless, event-driven, multi-tenant orchestrator that dispatches AI work from connected clients to autonomous workers over a custom WebSocket bus, accumulates a durable cost ledger, and exposes the running system to operators through a sysop console — all driven entirely by `.ini` configuration with **zero hardcoded behavioral constants** in Python.
