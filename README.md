@@ -2,10 +2,18 @@
 
 disregard these standalone files, they are now in the async zip
 
+
 tts_coqui.py
+
 tts_elevenlabs.py
+
 tts_espeak.py
+
 ui.js
+
+Use this fileset:
+
+rentahal-phase5-7-async.zip
 
 
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
