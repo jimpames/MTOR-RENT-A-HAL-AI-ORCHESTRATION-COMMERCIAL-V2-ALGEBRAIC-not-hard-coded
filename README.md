@@ -39,6 +39,11 @@ This code is a clean room re-write of MTOR RENTAHAL v1
 
 https://www.amazon.com/MTOR-Alice-Enters-Theory-Operation-ebook/dp/B0F7DF2XTP
 
+You are provided access to this source only for the purpose of evaluation.
+
+Upon completion of evaluation, you must destroy your copy of the software or obtain a commercial license.
+
+A commercial re-seller license is also available.
 
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
 
