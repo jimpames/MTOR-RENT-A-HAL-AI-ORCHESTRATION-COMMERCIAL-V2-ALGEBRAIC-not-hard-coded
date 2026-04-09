@@ -53,6 +53,12 @@ This code has never run on the N2NHU Labs Array - that is slated for Memorial Da
 
 This code has ONLY been tested in Claude's docker.
 
+For support before  Memorial Day:
+- Consult your local Claude Opus 4.6 extended, stnadard $20 coonsumer license.
+- Explode the zip of code
+- upload all files to Claude as a project
+- Chat with Claude in the project to troubleshoot
+
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
 
 A stateless, event-driven, multi-tenant orchestrator that dispatches AI work from connected clients to autonomous workers over a custom WebSocket bus, accumulates a durable cost ledger, and exposes the running system to operators through a sysop console — all driven entirely by `.ini` configuration with **zero hardcoded behavioral constants** in Python.
