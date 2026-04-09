@@ -56,7 +56,7 @@ This code has ONLY been tested in Claude's docker.
 For support before  Memorial Day:
 - Consult your local Claude Opus 4.6 extended, standard $20 consumer license.
 - Explode the zip of code
-- upload all files - dcode and doc - to Claude as a project
+- upload all files - code and doc - to Claude as a project
 - Chat with Claude in the project to troubleshoot
 
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
