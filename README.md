@@ -54,7 +54,7 @@ This code has never run on the N2NHU Labs Array - that is slated for Memorial Da
 This code has ONLY been tested in Claude's docker.
 
 For support before  Memorial Day:
-- Consult your local Claude Opus 4.6 extended, stnadard $20 coonsumer license.
+- Consult your local Claude Opus 4.6 extended, standard $20 consumer license.
 - Explode the zip of code
 - upload all files to Claude as a project
 - Chat with Claude in the project to troubleshoot
