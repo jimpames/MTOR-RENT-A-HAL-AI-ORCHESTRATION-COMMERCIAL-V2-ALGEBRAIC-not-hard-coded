@@ -35,11 +35,9 @@ https://www.amazon.com/MTOR-Alice-Enters-Theory-Operation-ebook/dp/B0F7DF2XTP
 
 Disclaimer:
 
-You are being provided a first look.
 
 This code has never run on the N2NHU Labs Array - that is slated for Memorial Day.
 
-This code has ONLY been tested in Claude's docker.
 
 For support before  Memorial Day:
 - Consult your local Claude Opus 4.6 extended, standard $20 consumer license.
