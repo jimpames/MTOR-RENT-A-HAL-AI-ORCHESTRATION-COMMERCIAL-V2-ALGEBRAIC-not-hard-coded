@@ -1,8 +1,5 @@
 # RENTAHAL V2
 
-You are now viewing a private closed github.
-
-You were invited.
 
 disregard these standalone files, they are now in the async zip
 
@@ -25,25 +22,16 @@ BY: N2NHU LABS  - j p ames
 
 License: 
 
-Commercial only - contact jimpames@gmail.com or jim@mtorfoundation.org for license
+GPL3
 
 This codebase is derived from my 33rd book and the principles and GPL3 code within:
 
 https://www.amazon.com/Applied-Algebraic-Design-Agentic-AI-ebook/dp/B0GKX969Y2
 
-No one may use this code without license.
-
-This code is not covered under GPL3
-
 This code is a clean room re-write of MTOR RENTAHAL v1
 
 https://www.amazon.com/MTOR-Alice-Enters-Theory-Operation-ebook/dp/B0F7DF2XTP
 
-You are provided access to this source only for the purpose of evaluation.
-
-Upon completion of evaluation, you must destroy your copy of the software or obtain a commercial license.
-
-A commercial re-seller license is also available.
 
 Disclaimer:
 
@@ -59,10 +47,6 @@ For support before  Memorial Day:
 - upload all files - code and doc - to Claude as a project
 - Chat with Claude in the project to troubleshoot
 
-Restriction:
-- You must never reveal or share the code or product outside your license, covering your organization.
-- The very existence of the product is confidential.
-- You may only share information with the Owners, Board of Directors, C-Level officers and necessary technical staff for evaluation purposes.
 
 **Multi-Tronic Operating Realm — voice-first AI orchestration platform**
 
