@@ -1,5 +1,10 @@
 # RENTAHAL V2
 
+Multi-Tronic Operating Realm — voice-first AI orchestration platform
+
+A stateless, event-driven, multi-tenant orchestrator that dispatches AI work from connected clients to autonomous workers over a custom WebSocket bus, accumulates a durable cost ledger, and exposes the running system to operators through a sysop console — all driven entirely by .ini configuration with zero hardcoded behavioral constants in Python.
+
+V2 is the commercial-license clean-room rewrite of RENTAHAL V1, which has served thousands of users in production at rentahal.com. V1 is GPL3; V2 is licensed commercially. Both implement the same external behavior; V2 is the modular, .ini-driven, IBM-mainframe-architected version suitable for licensing to enterprise buyers.
 
 disregard these standalone files, they are now in the async zip
 
