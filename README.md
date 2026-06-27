@@ -1,4 +1,39 @@
-# RENTAHAL V2
+
+
+# RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX ## User Manual & Theory of Operation
+***** rent-a-hal 26 soho api federated v1 is released ********
+download links below !!!!!! 
+
+<img width="1022" height="557" alt="rentahal" src="https://github.com/user-attachments/assets/a4941839-0753-4336-b94f-04c08c453f47" />
+<img width="1533" height="997" alt="turbo lover" src="https://github.com/user-attachments/assets/d83c936f-b78f-4b38-9dcd-bdb26b8fc034" />
+<img width="1428" height="989" alt="weather" src="https://github.com/user-attachments/assets/22c7b2f9-bcbb-4595-8c62-cb5f3dcc9539" />
+<img width="1477" height="981" alt="COFFEE" src="https://github.com/user-attachments/assets/04bd7c5e-8427-4ac2-a8b6-09343a99112e" />
+<img width="1594" height="985" alt="api-first" src="https://github.com/user-attachments/assets/2a341cf2-3549-4bf5-8dfe-a91b7f85e49b" />
+<img width="1394" height="973" alt="instant-answers" src="https://github.com/user-attachments/assets/fc88710d-a6c5-4cf5-9cf5-3f9ce2fba0cf" />
+
+
+write to me for support: jimpames@gmail.com
+
+these binaries are UNSIGNED - I will not have a code signing kit until mid july
+
+you WILL GET WARNINGS downloading/running these files !!!!
+
+if that makes you nervous, go play with the website version until I get it signed
+
+first installer - kokoro tts microservice for rent-a-hal
+
+readme - https://drive.google.com/file/d/1-Ypo_aQyK62GeaUgiiIciGwi4tLE9tQm/view?usp=sharing
+
+kokoro tts installer - https://drive.google.com/file/d/1HqE7tyXUmoh93LhC8lTbAA8i5gpco2m0/view?usp=sharing
+
+second installer - rent-a-hal 26 soho api federated
+
+readme - https://drive.google.com/file/d/1ZdICYLQppaQRRKmX6lTvwB1NbOmANaxX/view?usp=sharing
+
+rent-a-hal soho 26 api/federated installer - https://drive.google.com/file/d/1XT6xkV7cPB4t-_YvFLoNT9VG1AAMPEh8/view?usp=sharing
+
+
+
 
 Multi-Tronic Operating Realm — voice-first AI orchestration platform
 
