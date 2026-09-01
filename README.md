@@ -4,6 +4,16 @@
 ***** rent-a-hal 26 soho api federated v1 is released ********
 download links below !!!!!! 
 
+1 sep 26
+
+get the tricorder for android!!!!!!!!!!
+
+https://github.com/jimpames/tricorder/
+
+
+
+
+
 <img width="1022" height="557" alt="rentahal" src="https://github.com/user-attachments/assets/a4941839-0753-4336-b94f-04c08c453f47" />
 <img width="1533" height="997" alt="turbo lover" src="https://github.com/user-attachments/assets/d83c936f-b78f-4b38-9dcd-bdb26b8fc034" />
 <img width="1428" height="989" alt="weather" src="https://github.com/user-attachments/assets/22c7b2f9-bcbb-4595-8c62-cb5f3dcc9539" />
